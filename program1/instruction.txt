@@ -1,0 +1,14 @@
+Execution environment: Python3
+
+My compilation: Vscode
+
+Just click 'RUN' button to run those programs.
+
+taks1.py is the uni-variate model (before standardized) program, change the feature index manually.
+task1norm.py is the uni-variate model (after standardized) program, change the feature index manually.
+
+taks2.py is the multi-variate model (before standardized) program.
+taks2norm.py is the multi-variate model (after standardized) program.
+
+taks3.py is the quadratic model (before standardized) program.
+taks3norm.py is quadratic model (after standardized) program.
