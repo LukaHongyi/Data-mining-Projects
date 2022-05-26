@@ -1,6 +1,6 @@
 Execution environment: Python3
 
-My compilation: Vscode
+My compilation: VsCode
 
 Just click 'RUN' button to run those programs.
 
