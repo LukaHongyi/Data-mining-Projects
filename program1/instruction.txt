@@ -2,7 +2,7 @@ Execution environment: Python3
 
 My compilation: VsCode
 
-Just click 'RUN' button to run those programs.
+Click 'RUN' button to run those programs.
 
 taks1.py is the uni-variate model (before standardized) program, change the feature index manually.
 task1norm.py is the uni-variate model (after standardized) program, change the feature index manually.
